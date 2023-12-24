@@ -1,0 +1,5 @@
+.DS_Store
+**/.terraform/*
+marketplace/*/.terraform
+internal/*/.terraform
+venv
